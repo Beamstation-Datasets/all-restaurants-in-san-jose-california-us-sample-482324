@@ -1,6 +1,6 @@
 # All Restaurants in San Jose, California, US
 
-> Free BeamStation sample export with 269 rows and masked direct-contact fields.
+> Free BeamStation sample export with 261 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `482324` |
 | Location | San Jose |
 | Category | Restaurants |
-| Full dataset size | 2,692 records |
-| Free sample size | 269 records (9.99%) |
-| Last export | 2026-04-09T14:05:12.996762+00:00 |
+| Full dataset size | 2,616 records |
+| Free sample size | 261 records (9.98%) |
+| Last export | 2026-04-16T15:01:03.951904+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-jose-california-us-sample-482324/releases/download/sample-latest/beamstation_482324_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
