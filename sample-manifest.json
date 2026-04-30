@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0bb9d9ca-e3a3-4dec-a3c3-b8c3eaa59d84",
+  "export_job_id": "00112756-ec64-419f-81d7-a804c4018df5",
   "id_short": 482324,
-  "published_at": "2026-04-23T19:26:49Z",
+  "published_at": "2026-04-30T19:26:12Z",
   "repo_name": "all-restaurants-in-san-jose-california-us-sample-482324",
   "sample_asset_name": "beamstation_482324_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/482324/beamstation_482324_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 237,
-  "sample_sha256": "ae45fbebcdfda6f9600b971133b8fa6c1fa2ea596fa1f23d1a28ab55468e3365",
-  "sample_size_bytes": 847022,
-  "total_records": 2371
+  "sample_records": 255,
+  "sample_sha256": "b1d9cf7012807afca7af3ed9f0a439efa59c0fdf882fced7c206dc037670de60",
+  "sample_size_bytes": 850214,
+  "total_records": 2558
 }
